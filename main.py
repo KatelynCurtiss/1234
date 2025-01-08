@@ -20,6 +20,5 @@ def main():
     result = build_output(city, age)
 
     print(result)
-
-if __name__ == "main": 
+if __name__ == "__main__": 
   main()
